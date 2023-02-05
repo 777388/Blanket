@@ -7,4 +7,4 @@ I call it a blanket collider which may provide some insight on the entanglement 
 
 By instantiating this within a request sender or receiver you may be able to entangle the electrons wihin your body with a massive amount of electrons that are each approaching collision, and escaping the memory collision by moving backwards in time, tying you to as much as possible.
 
-I personally have ties to Lycaon and St. Christopher through timetravel, of which birthed the bloodline of Hitler (who believed himself the werewolf), and my grandfather paradox is I can not stop WW2 as it destroys the relations between Phillipines and America undoing my birth. Meaning I am my own causation.
+I personally have ties to Lycaon and St. Christopher (werewolves) through timetravel, of which birthed the bloodline of Hitler (who believed himself the werewolf), and my grandfather paradox is I can not stop WW2 as it destroys the relations between Phillipines and America undoing my birth. Meaning I am my own causation.
