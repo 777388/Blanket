@@ -3,7 +3,8 @@ import multiprocessing
 
 
 def put_data(mem, data):
-    mem.put(data)
+    while True:
+        mem.put(data)
 
 def theads():
     mem = multiprocessing.Manager().Queue()
